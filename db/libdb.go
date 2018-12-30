@@ -4,7 +4,8 @@ import (
     "fmt"
 
     "github.com/jmoiron/sqlx"
-    "gitlab.com/ajruckman/lib/err"
+
+    "github.com/ajruckman/lib/err"
 )
 
 type Database struct {
